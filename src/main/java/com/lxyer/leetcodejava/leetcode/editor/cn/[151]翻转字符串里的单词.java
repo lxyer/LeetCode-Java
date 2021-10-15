@@ -75,7 +75,7 @@ package com.lxyer.leetcodejava.leetcode.editor.cn;//给你一个字符串 s ，�
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution151 {
     public static String reverseWords(String s1) {
         s1 = "  hello world  ";
         String s = null;
